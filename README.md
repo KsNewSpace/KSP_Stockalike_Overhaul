@@ -12,7 +12,7 @@ KSP Stockalike Overhaul
 
 ***Please check every mod for dependencies in case I forget to list them***
 
-To download a mod on Github check the right side for "Releases". There you can download the latest mod as a zip file.
+To download a mod on Github check the right side for "Releases". There you can download the latest mod as a zip file. I like to help but I can't give you full support on everything! If it doesn't work or Module Manager / Kopernicus complain during boot of the game, you forgot something. 
 
 # Audio - Visual (mostly)
 
