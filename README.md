@@ -18,6 +18,7 @@ To download a mod on Github check the right side for "Releases". There you can d
   - [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
 - [Volumetric Cloud v3](https://www.patreon.com/posts/true-volumetric-87982960) (I use v5 but that one is paywalled.)
 - [ParallaxContinued](https://github.com/Gameslinx/Parallax-Continued/) (Greatly improved ground scatter and parallax effects for all planets)
+  - - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Configs to properly mask out your custom KSC from ground scatters)
 - [Firefly](https://github.com/M1rageDev/Firefly/) (Revamped reentry effects)
 - [Waterfall](https://github.com/post-kerbin-mining-corporation/Waterfall) (Framework for new engine effects that expand with atmospheric pressure)
   - [Restock Waterfall](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Waterfall Configs for Restock, contains its dependencies)
