@@ -14,6 +14,19 @@ KSP Stockalike Overhaul
 
 To download a mod on Github check the right side for "Releases". There you can download the latest mod as a zip file. I like to help but I can't give you full support on everything! If it doesn't work or Module Manager / Kopernicus complain during boot of the game, you forgot something. 
 
+# Motivation
+
+My goal is to bring KSP to 2025 without changing the core gameplay loop too much. The 2.7x rescale makes it a bit more difficult to get around but it works perfectly fine with stock parts. In fact, I think the stock parts are designed for this particular size. They are just OP on 1x, especially the bigger tanks and engines. For the number people: Getting to orbit around Kerbin requires just shy of 4000 m/s DeltaV. Mostly payloads will become smaller and more realistic looking. If you want giant rovers and colonies better prepare for some orbital construction and fuel depots :)
+
+# Official Channels
+
+- Tip Jar: [KsNewSpace.shop](https://ksnewspace.shop/) <3
+- YouTube: [@KsNewSpace](https://www.youtube.com/@KsNewSpace) (KSP, Coding, Space Stuff)
+- Twi..X: [@KsNewSpace](https://x.com/KsNewSpace) (I'm not a Nazi)
+- Twitch: [KsNewSpace](https://www.twitch.tv/ksnewspace) (placeholder, I don't really stream but who knows..)
+- Business Contact: KsN■wSp■ce@outl■ok.com (replace ■ with sensical vowels)
+  - Mails with attachments are sorted out. I will forward your mail to the authorities if it contains illegal or disturbing things.
+
 # Audio - Visual (mostly)
 
 - [Restock & Restock+](https://github.com/PorktoberRevolution/ReStocked) (Complete revamp of the stock parts plus stock-ish parts that Squad forgot)
