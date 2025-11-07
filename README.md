@@ -63,8 +63,8 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 - [Community Tech Tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree) (Integrates parts added by many mods into the Tech Tree)
 - [CameraTools](https://github.com/BrettRyland/CameraTools) (Move the ingame camera freely for epic shots. I also use it for the smooth following camera on planes (Dogfight))
 - [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) (Puts real stars into the sky you can hover over to check their names and more)
-- [Physics Hold](https://github.com/gotmachine/PhysicsHold) (Allows you to turn off physics of large craft for better performance (stations and colonies). Docking still works!)
-- [kRPC](https://github.com/krpc/krpc) (Allows you to start a server within KSP to connect and play KSP from the outside using code. [Documentation](https://krpc.github.io/krpc/))
+- [Physics Hold](https://github.com/gotmachine/PhysicsHold) (Allows you to turn off physics of large craft for better performance (stations). Docking still works!)
+- [kRPC](https://github.com/krpc/krpc) (Allows you to connect to and play KSP from the "outside" using code. [Docs](https://krpc.github.io/krpc/))
 - [Kronometer](https://github.com/linuxgurugamer/Kronometer/) (Allows you to manipulate the clock in KSP)
 - ...
 
