@@ -66,15 +66,16 @@ To download a mod on Github check the right side for "Releases". There you can d
 
 To be continued!
   
-![image](screenshots/modlist_110625.png)
+![image](screenshots/modlist_110625.jpg)
 
 Photo Album
 ===========
-![image](screenshots/ksc_01.png)
-![image](screenshots/fighter_jet_01.png)
-![image](screenshots/shiny_01.png)
-![image](screenshots/black_hawk_01.png)
-![image](screenshots/black_hawk_02.png)
-![image](screenshots/soyuz6x.png)
-![image](screenshots/sph_01.png)
-![image](screenshots/orbit_01.png)
+![image](screenshots/ksc_01.jpg)
+![image](screenshots/fighter_jet_01.jpg)
+![image](screenshots/parachute.jpg)
+![image](screenshots/shiny_01.jpg)
+![image](screenshots/black_hawk_01.jpg)
+![image](screenshots/black_hawk_02.jpg)
+![image](screenshots/soyuz6x.jpg)
+![image](screenshots/sph_01.jpg)
+![image](screenshots/orbit_01.jpg)
