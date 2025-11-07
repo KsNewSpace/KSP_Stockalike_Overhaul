@@ -31,7 +31,9 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 - Business Contact: KsN■wSp■ce@outl■ok.com (replace ■ with sensical vowels)
   - Mails with attachments are sorted out. I will forward your mail to the authorities if it contains illegal or disturbing things.
 
-# Audio - Visual (mostly)
+# My Complate Mod List
+
+## Audio - Visual (mostly)
 
 - [Restock & Restock+](https://github.com/PorktoberRevolution/ReStocked) (Complete revamp of the stock parts plus stock-ish parts that Squad forgot)
   - [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
@@ -51,7 +53,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
   - [RSEDefault](https://github.com/KSPModStewards/RocketSoundEnhancementDefault) (Default configs for RSE. Also adds sonic booms, wheel squeek, propeller sounds and more)
 - ...
 
-# Functional
+## Functional
 
 - [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions) (Scaling Kerbin and the Kerbol system to a new size)
   - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Optional 2.7x scale configs. 2.7x for me is the perfect size to use the stock overpowered parts.)
@@ -66,14 +68,14 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 - [Kronometer](https://github.com/linuxgurugamer/Kronometer/) (Allows you to manipulate the clock in KSP)
 - ...
 
-# Quality of Life
+## Quality of Life
 
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
 - [ClickthroughBlocker](https://github.com/linuxgurugamer/ClickThroughBlocker) (Annoyed by clicking on a popup window but suddenly you grab a part of your rocket...?)
 - [Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes) (A big patch for KSP that fixes a lot of bugs. Most notably improved loading times.)
 - ...
 
-# Mod Dependencies
+## Mod Dependencies
 
 - [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) (Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg)
 - [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements) (Helps to replace things like the skybox, menus, etc)
@@ -91,8 +93,8 @@ To be continued!
   
 ![image](screenshots/modlist_110625.jpg)
 
-Photo Album
-===========
+# Photo Album
+
 ![image](screenshots/ksc_01.jpg)
 ![image](screenshots/fighter_jet_01.jpg)
 ![image](screenshots/parachute.jpg)
