@@ -45,7 +45,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
   - [Restock Waterfall](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Waterfall Configs for Restock, contains its dependencies)
   - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
 - [TUFX](https://github.com/KSPModStewards/TUFX/) (Post processing effects for KSP to make it look nicer)
-  - I provide my config file as optional addon. Put it in the GameData folder directly. You have to apply it ingame.
+  - I provide my config files as optional addon. Put it in the GameData folder directly. You have to apply it ingame for each scene.
 - [Deferred](https://github.com/LGhassen/Deferred/) (Rendering upgrade for KSP + Screenspace Reflections)
 - [Resurfaced](https://github.com/Tantares/Resurfaced) (Shader upgrade for KSP)
 - [VaporCones](https://spacedock.info/mod/3805/VaporCones) (Adds vapor cones at transonic speeds. Can be annoying if you fly that speed constantly)
