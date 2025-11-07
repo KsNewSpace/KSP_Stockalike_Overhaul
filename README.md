@@ -31,7 +31,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 - Business Contact: KsN■wSp■ce@outl■ok.com (replace ■ with sensical vowels)
   - Mails with attachments are sorted out. I will forward your mail to the authorities if it contains illegal or disturbing things.
 
-# My Complate Mod List
+# My Complete Mod List
 
 ## Audio - Visual (mostly)
 
